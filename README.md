@@ -63,12 +63,14 @@ python chapter1/hill_climbing.py
 ---
 
 ## 📂 Repository Structure
+```text
 ├── chapter1/          # Getting started with AI
 ├── chapter2/          # Dealing with uncertainty
 ├── chapter3/          # Machine learning
 ├── chapter4/          # Neural networks
 ├── chapter5/          # Conclusion
 └── README.md
+```
 
 ---
 
